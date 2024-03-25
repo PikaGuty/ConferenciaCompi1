@@ -1,0 +1,11 @@
+//hola
+int a = 2 + 1;
+int b = a * 2;
+println(b);
+
+
+if(b<a){
+print("B es menor que A");
+}else{
+print("B es mayor que A");
+}
