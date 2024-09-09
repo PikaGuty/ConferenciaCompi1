@@ -1,7 +1,7 @@
 //hola
 int a = 2 + 1;
 int b = a + 2;
-println(b);
+println(a);
 
 
 if(b<a){
